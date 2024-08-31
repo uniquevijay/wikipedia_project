@@ -1,0 +1,53 @@
+.main-container {
+    font-family: "calibri";
+}
+
+.top-section {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    margin-left: 1px;
+}
+
+.image {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.search-results {
+    width: 100%;
+    padding-left: 20px;
+}
+
+.result-item {
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+
+.link-description {
+    color: #444444;
+    font-size: 15px;
+}
+
+.result-title {
+    font-size: 22px;
+}
+
+.result-url {
+    color: green;
+    text-decoration: none;
+}
